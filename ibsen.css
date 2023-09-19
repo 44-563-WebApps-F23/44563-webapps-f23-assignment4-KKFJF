@@ -1,0 +1,30 @@
+.speech{
+font: 100;
+font-family: 'Courier New', Courier, monospace;
+font-size: medium;
+color: black;
+}
+.direction{
+font: 200;
+font-size: larger;
+color: black;
+background-color: blueviolet;
+
+}
+.name{
+
+
+}
+.direction:hover{
+background-color: red;
+color:blue;
+
+}
+.misstesman{
+    color:green;
+
+}
+.Hedda{
+    color: burlywood;
+
+}
