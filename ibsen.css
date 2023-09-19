@@ -11,8 +11,9 @@ color: black;
 background-color: blueviolet;
 
 }
-.name{
-
+.name:hover{
+    color: brown;
+    text-shadow: 2px 3px 5px  red;
 
 }
 .direction:hover{
