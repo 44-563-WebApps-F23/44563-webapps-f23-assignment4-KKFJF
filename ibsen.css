@@ -22,11 +22,11 @@ color:blue;
 
 }
 .misstesman{
-    color:green;
+color:green;
 
 }
 .Hedda{
-    color: burlywood;
+color: burlywood;
 
 }
 
@@ -40,5 +40,5 @@ table{
 
 }
 tr:nth-child(odd){
-    color:green;
+color:green;
 }
