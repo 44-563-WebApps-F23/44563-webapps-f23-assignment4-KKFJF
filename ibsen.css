@@ -28,3 +28,16 @@ color:blue;
     color: burlywood;
 
 }
+
+table{
+    border:2cm solid red;
+    color:blueviolet;
+    text-align: center;
+    padding: 2cm;
+    margin: 3px;
+
+
+}
+tr:nth-child(odd){
+    color:green;
+}
